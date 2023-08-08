@@ -4,3 +4,4 @@ In this Project, I want to show How a store improve their sales by using their p
 ![1](https://github.com/Rahul16121992/Mega_store_Data_Analysis_by_using_Excel/assets/103987446/1077663c-f7d7-4af0-97c1-badf4267b2ab)
 ![2](https://github.com/Rahul16121992/Mega_store_Data_Analysis_by_using_Excel/assets/103987446/622403b9-678a-4ed5-ad5e-6475f70ebda1)
 ![3](https://github.com/Rahul16121992/Mega_store_Data_Analysis_by_using_Excel/assets/103987446/5b1edc0d-4953-4f98-9e00-3cf545000b9c)
+![4](https://github.com/Rahul16121992/Mega_store_Data_Analysis_by_using_Excel/assets/103987446/2670c74e-0747-40cb-a2bd-6e2d60b056fa)
